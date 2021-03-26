@@ -19,9 +19,13 @@ E foi por meio desses contatos iniciais com a programação, que em 2020 resolvi
 ### Plataformas onde desenvolvo meu conhecimento 
 
 (https://imdfic.imd.ufrn.br/index) - Programador Web 
+
 (https://web.digitalinnovation.one/home) - Diversos cursos e bootcamp 
+
 (https://www.ev.org.br/) - Diversos cursos 
+
 (https://docs.microsoft.com/pt-br/learn/) - Microsoft 
+
 (https://www.freecodecamp.org/) - Frontend | Backend
 
 
